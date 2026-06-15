@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/background.png</file>
+        <file>resources/sounds_meow.wav</file>
+        <file>resources/left-keys/Control.png</file>
+        <file>resources/left-keys/KeyR.png</file>
+        <file>resources/left-keys/Shift.png</file>
+        <file>resources/right-keys/DownArrow.png</file>
+        <file>resources/right-keys/LeftArrow.png</file>
+        <file>resources/right-keys/RightArrow.png</file>
+        <file>resources/right-keys/UpArrow.png</file>
+        <file>resources/cat.png</file>
+        <file>resources/cover.png</file>
+    </qresource>
+</RCC>
